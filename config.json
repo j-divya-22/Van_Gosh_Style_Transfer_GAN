@@ -1,0 +1,10 @@
+{
+  "model_name": "Van Gogh AI Studio",
+  "architecture": "CompatibleResnetGenerator",
+  "input_channels": 3,
+  "output_channels": 3,
+  "ngf": 64,
+  "residual_blocks": 9,
+  "image_size": 256,
+  "training_epochs": 30
+}
